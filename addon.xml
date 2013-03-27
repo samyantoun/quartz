@@ -1,4 +1,4 @@
-<addon id="skin.quartz" version="4.1.1" name="Quartz" provider-name="Pecinko">
+<addon id="skin.simsim" version="4.1.1" name="SimSim" provider-name="SamyAntoun">
   <requires>
     <import addon="xbmc.gui" version="4.0.0"/>
     <import addon="script.favourites" version="4.0.4"/>
@@ -13,6 +13,6 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary>Apple TV style skin</summary>
-    <description>Inspired by Apple TV interface Quartz brings easy to use, fast and flexible user interface. If you believe that sometimes less means more, you might feel right at home with Quartz. Skin graphics by Baswazz.</description>
+    <description>Forked from Quartz</description>
   </extension>
 </addon>
